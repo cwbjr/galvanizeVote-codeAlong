@@ -7,6 +7,7 @@
   </header>
   <main>
     <p>The future home of Galvanize Votes</p>
+    
   </main>
 </div>
 </template>
