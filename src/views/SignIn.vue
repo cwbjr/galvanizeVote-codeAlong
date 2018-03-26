@@ -16,9 +16,9 @@
 //    import HelloWorld from "@/components/HelloWorld.vue"
 
 export default {
-  name: "SignIn",
-  components: {}
-}
+  name: 'SignIn',
+  components: {},
+};
 </script>
 
 <style scoped lang="scss">
